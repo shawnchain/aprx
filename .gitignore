@@ -1,14 +1,4 @@
 
-Makefile
-aprx-complex.conf
-aprx.conf
-config.h
-config.log
-config.status
-aprx-stat
-aprx-stat.8
-aprx.8
-
 build-stamp
 configure-stamp
 debian/aprx.debhelper.log
