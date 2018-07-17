@@ -9,11 +9,11 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=aprx
 PKG_REV:=614
-PKG_VERSION:=2.8.1-W6KWF
+PKG_VERSION:=2.8.1-BG5HHP-SNAPSHOT
 PKG_RELEASE:=3
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.bz2
-PKG_SOURCE_URL:=https://github.com/PhirePhly/aprx/tags/v2.8.1-W6KWF
+PKG_SOURCE_URL:=https://github.com/shawnchain/aprx
 PKG_SOURCE_SUBDIR:=$(PKG_NAME)-$(PKG_VERSION)
 PKG_SOURCE_VERSION:=$(PKG_REV)
 PKG_SOURCE_PROTO:=svn
